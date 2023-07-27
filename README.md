@@ -1,1 +1,1 @@
-![Dashboard](\src\Assests\Images\images.png)
+![Dashboard](src/Assests/Images/images.png)
